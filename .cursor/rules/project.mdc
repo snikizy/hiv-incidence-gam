@@ -1,0 +1,6 @@
+- Language: R. Models use mgcv with method = "REML".
+- Never modify files in data/raw/.
+- Scripts are numbered (01_clean.R, 02_eda.R, ...) and runnable top to bottom.
+- Save figures to outputs/figures/ as PNG, 300 dpi.
+- After every script, run it and report errors before moving on.
+- Keep a running log of decisions in README.md.
