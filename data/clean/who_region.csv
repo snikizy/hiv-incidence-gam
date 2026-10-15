@@ -1,0 +1,534 @@
+"year","region_name","sex","rate","rate_lower","rate_upper","rate_na"
+2003,"Africa","FEMALE",3.1,2.4,4.2,FALSE
+2003,"Americas","FEMALE",0.11,0.1,0.14,FALSE
+2003,"South-East Asia","FEMALE",0.17,0.12,0.26,FALSE
+2003,"Europe","FEMALE",0.1,0.1,0.1,FALSE
+2003,"Eastern Mediterranean","FEMALE",0.1,0.1,0.1,FALSE
+2003,"Western Pacific","FEMALE",0.1,0.1,0.1,FALSE
+2001,"Africa","FEMALE",3.5,2.7,4.8,FALSE
+2001,"South-East Asia","FEMALE",0.22,0.16,0.34,FALSE
+2001,"Europe","FEMALE",0.1,0.1,0.1,FALSE
+2001,"Eastern Mediterranean","FEMALE",0.1,0.1,0.1,FALSE
+2001,"Western Pacific","FEMALE",0.1,0.1,0.1,FALSE
+2001,"Americas","FEMALE",0.11,0.1,0.14,FALSE
+2002,"Africa","FEMALE",3.3,2.5,4.5,FALSE
+2002,"Americas","FEMALE",0.11,0.1,0.14,FALSE
+2002,"South-East Asia","FEMALE",0.2,0.14,0.3,FALSE
+2002,"Europe","FEMALE",0.1,0.1,0.1,FALSE
+2002,"Eastern Mediterranean","FEMALE",0.1,0.1,0.1,FALSE
+2002,"Western Pacific","FEMALE",0.1,0.1,0.1,FALSE
+2007,"Europe","FEMALE",0.1,0.1,0.1,FALSE
+2007,"Eastern Mediterranean","FEMALE",0.1,0.1,0.1,FALSE
+2007,"Western Pacific","FEMALE",0.1,0.1,0.1,FALSE
+1993,"Africa","FEMALE",4.7,3.5,6.2,FALSE
+2014,"Eastern Mediterranean","FEMALE",0.1,0.1,0.1,FALSE
+2014,"Western Pacific","FEMALE",0.1,0.1,0.1,FALSE
+1992,"Western Pacific","FEMALE",0.01,0.01,0.01,FALSE
+1991,"Americas","FEMALE",0.13,0.1,0.17,FALSE
+1991,"South-East Asia","FEMALE",0.3,0.21,0.45,FALSE
+1991,"Africa","FEMALE",4.4,3.3,5.8,FALSE
+1991,"Europe","FEMALE",0.1,0.1,0.1,FALSE
+1991,"Eastern Mediterranean","FEMALE",0.1,0.1,0.1,FALSE
+1991,"Western Pacific","FEMALE",0.01,0.01,0.01,FALSE
+2006,"Africa","FEMALE",2.6,2,3.5,FALSE
+2006,"Americas","FEMALE",0.1,0.1,0.13,FALSE
+2006,"South-East Asia","FEMALE",0.13,0.1,0.2,FALSE
+2006,"Europe","FEMALE",0.1,0.1,0.1,FALSE
+2006,"Eastern Mediterranean","FEMALE",0.1,0.1,0.1,FALSE
+2006,"Western Pacific","FEMALE",0.1,0.1,0.1,FALSE
+2000,"Africa","FEMALE",3.7,2.8,5,FALSE
+2000,"Americas","FEMALE",0.12,0.1,0.15,FALSE
+2000,"South-East Asia","FEMALE",0.26,0.18,0.39,FALSE
+2018,"Africa","FEMALE",1.2,0.88,1.6,FALSE
+2018,"Americas","FEMALE",0.1,0.1,0.13,FALSE
+2000,"Europe","FEMALE",0.1,0.1,0.1,FALSE
+2000,"Eastern Mediterranean","FEMALE",0.1,0.1,0.1,FALSE
+2007,"Africa","FEMALE",2.4,1.8,3.3,FALSE
+2007,"South-East Asia","FEMALE",0.12,0.1,0.18,FALSE
+2007,"Americas","FEMALE",0.1,0.1,0.13,FALSE
+1995,"Africa","FEMALE",4.6,3.4,6.1,FALSE
+1995,"Americas","FEMALE",0.14,0.11,0.17,FALSE
+1995,"South-East Asia","FEMALE",0.47,0.33,0.72,FALSE
+1995,"Europe","FEMALE",0.1,0.1,0.1,FALSE
+1995,"Eastern Mediterranean","FEMALE",0.1,0.1,0.1,FALSE
+1995,"Western Pacific","FEMALE",0.1,0.1,0.1,FALSE
+2009,"Africa","FEMALE",2.1,1.6,2.9,FALSE
+2009,"Americas","FEMALE",0.1,0.1,0.13,FALSE
+2009,"South-East Asia","FEMALE",0.1,0.1,0.15,FALSE
+2009,"Europe","FEMALE",0.1,0.1,0.11,FALSE
+2009,"Eastern Mediterranean","FEMALE",0.1,0.1,0.1,FALSE
+2009,"Western Pacific","FEMALE",0.1,0.1,0.1,FALSE
+1990,"Europe","FEMALE",0.1,0.1,0.1,FALSE
+1990,"Eastern Mediterranean","FEMALE",0.1,0.1,0.1,FALSE
+1990,"Western Pacific","FEMALE",0.01,0.01,0.01,FALSE
+1990,"Africa","FEMALE",4,3,5.3,FALSE
+1990,"Americas","FEMALE",0.13,0.1,0.16,FALSE
+1990,"South-East Asia","FEMALE",0.23,0.17,0.35,FALSE
+2019,"Africa","FEMALE",1.1,0.82,1.5,FALSE
+2017,"Europe","FEMALE",0.1,0.1,0.12,FALSE
+2017,"Eastern Mediterranean","FEMALE",0.1,0.1,0.1,FALSE
+2017,"Western Pacific","FEMALE",0.1,0.1,0.1,FALSE
+1992,"Africa","FEMALE",4.6,3.4,6.1,FALSE
+1992,"Americas","FEMALE",0.13,0.11,0.17,FALSE
+1999,"Americas","FEMALE",0.12,0.1,0.15,FALSE
+1999,"South-East Asia","FEMALE",0.29,0.21,0.44,FALSE
+1999,"Europe","FEMALE",0.1,0.1,0.1,FALSE
+1999,"Eastern Mediterranean","FEMALE",0.1,0.1,0.1,FALSE
+1999,"Western Pacific","FEMALE",0.1,0.1,0.1,FALSE
+1999,"Africa","FEMALE",4,3,5.3,FALSE
+2017,"South-East Asia","FEMALE",0.1,0.1,0.1,FALSE
+2017,"Africa","FEMALE",1.3,0.96,1.7,FALSE
+2017,"Americas","FEMALE",0.1,0.1,0.13,FALSE
+2013,"Americas","FEMALE",0.1,0.1,0.13,FALSE
+2013,"South-East Asia","FEMALE",0.1,0.1,0.11,FALSE
+2013,"Europe","FEMALE",0.11,0.1,0.13,FALSE
+2013,"Eastern Mediterranean","FEMALE",0.1,0.1,0.1,FALSE
+2013,"Western Pacific","FEMALE",0.1,0.1,0.1,FALSE
+2013,"Africa","FEMALE",1.7,1.3,2.2,FALSE
+2018,"South-East Asia","FEMALE",0.1,0.1,0.1,FALSE
+1997,"Africa","FEMALE",4.3,3.3,5.8,FALSE
+2018,"Western Pacific","FEMALE",0.1,0.1,0.1,FALSE
+2018,"Europe","FEMALE",0.1,0.1,0.12,FALSE
+2018,"Eastern Mediterranean","FEMALE",0.1,0.1,0.1,FALSE
+1997,"Europe","FEMALE",0.1,0.1,0.1,FALSE
+1997,"Eastern Mediterranean","FEMALE",0.1,0.1,0.1,FALSE
+1997,"Americas","FEMALE",0.13,0.1,0.16,FALSE
+1997,"South-East Asia","FEMALE",0.44,0.31,0.67,FALSE
+1997,"Western Pacific","FEMALE",0.1,0.1,0.1,FALSE
+2019,"Americas","FEMALE",0.1,0.1,0.13,FALSE
+2019,"South-East Asia","FEMALE",0.1,0.1,0.1,FALSE
+2019,"Europe","FEMALE",0.1,0.1,0.12,FALSE
+2021,"Western Pacific","FEMALE",0.1,0.1,0.1,FALSE
+2019,"Eastern Mediterranean","FEMALE",0.1,0.1,0.1,FALSE
+2019,"Western Pacific","FEMALE",0.1,0.1,0.1,FALSE
+2022,"Africa","FEMALE",0.81,0.62,1.1,FALSE
+2022,"Americas","FEMALE",0.1,0.1,0.12,FALSE
+2022,"South-East Asia","FEMALE",0.1,0.1,0.1,FALSE
+2021,"Africa","FEMALE",0.91,0.69,1.2,FALSE
+2021,"Americas","FEMALE",0.1,0.1,0.13,FALSE
+2021,"South-East Asia","FEMALE",0.1,0.1,0.1,FALSE
+2021,"Europe","FEMALE",0.1,0.1,0.12,FALSE
+2021,"Eastern Mediterranean","FEMALE",0.1,0.1,0.1,FALSE
+2020,"Africa","FEMALE",0.97,0.74,1.3,FALSE
+2020,"Americas","FEMALE",0.1,0.1,0.13,FALSE
+2020,"South-East Asia","FEMALE",0.1,0.1,0.1,FALSE
+2020,"Eastern Mediterranean","FEMALE",0.1,0.1,0.1,FALSE
+2020,"Western Pacific","FEMALE",0.1,0.1,0.1,FALSE
+2020,"Europe","FEMALE",0.1,0.1,0.12,FALSE
+2022,"Europe","FEMALE",0.1,0.1,0.12,FALSE
+2022,"Eastern Mediterranean","FEMALE",0.1,0.1,0.1,FALSE
+2022,"Western Pacific","FEMALE",0.1,0.1,0.1,FALSE
+2000,"Africa","MALE",2.8,2.1,3.9,FALSE
+2000,"South-East Asia","MALE",0.31,0.22,0.47,FALSE
+2000,"Europe","MALE",0.14,0.12,0.17,FALSE
+2000,"Americas","MALE",0.29,0.22,0.38,FALSE
+2005,"Africa","FEMALE",2.8,2.1,3.7,FALSE
+2005,"Americas","FEMALE",0.1,0.1,0.13,FALSE
+2005,"South-East Asia","FEMALE",0.15,0.1,0.22,FALSE
+2005,"Europe","FEMALE",0.1,0.1,0.1,FALSE
+2005,"Eastern Mediterranean","FEMALE",0.1,0.1,0.1,FALSE
+2003,"Africa","MALE",2.3,1.8,3.2,FALSE
+2005,"Western Pacific","FEMALE",0.1,0.1,0.1,FALSE
+2003,"Americas","MALE",0.28,0.22,0.37,FALSE
+2003,"South-East Asia","MALE",0.21,0.15,0.32,FALSE
+2003,"Europe","MALE",0.15,0.13,0.18,FALSE
+2003,"Western Pacific","MALE",0.14,0.12,0.15,FALSE
+2001,"Africa","MALE",2.6,2,3.6,FALSE
+2001,"Americas","MALE",0.29,0.22,0.37,FALSE
+2001,"South-East Asia","MALE",0.27,0.19,0.4,FALSE
+2001,"Western Pacific","MALE",0.13,0.12,0.15,FALSE
+2001,"Europe","MALE",0.15,0.12,0.17,FALSE
+2012,"Africa","FEMALE",1.8,1.3,2.4,FALSE
+2012,"Americas","FEMALE",0.1,0.1,0.13,FALSE
+2012,"South-East Asia","FEMALE",0.1,0.1,0.12,FALSE
+2012,"Europe","FEMALE",0.11,0.1,0.12,FALSE
+2012,"Eastern Mediterranean","FEMALE",0.1,0.1,0.1,FALSE
+2012,"Western Pacific","FEMALE",0.1,0.1,0.1,FALSE
+2015,"South-East Asia","FEMALE",0.1,0.1,0.1,FALSE
+2015,"Africa","FEMALE",1.5,1.1,2,FALSE
+2015,"Americas","FEMALE",0.1,0.1,0.13,FALSE
+1993,"Americas","FEMALE",0.14,0.11,0.18,FALSE
+2015,"Europe","FEMALE",0.11,0.1,0.13,FALSE
+2015,"Eastern Mediterranean","FEMALE",0.1,0.1,0.1,FALSE
+2015,"Western Pacific","FEMALE",0.1,0.1,0.1,FALSE
+1993,"South-East Asia","FEMALE",0.36,0.26,0.55,FALSE
+1993,"Europe","FEMALE",0.1,0.1,0.1,FALSE
+1993,"Eastern Mediterranean","FEMALE",0.1,0.1,0.1,FALSE
+1993,"Western Pacific","FEMALE",0.1,0.01,0.1,FALSE
+2024,"Europe","FEMALE",0.1,0.1,0.12,FALSE
+2024,"Western Pacific","FEMALE",0.1,0.1,0.1,FALSE
+2024,"Eastern Mediterranean","FEMALE",0.1,0.1,0.1,FALSE
+2002,"South-East Asia","MALE",0.24,0.17,0.36,FALSE
+2002,"Europe","MALE",0.15,0.12,0.17,FALSE
+2002,"Western Pacific","MALE",0.14,0.13,0.15,FALSE
+2002,"Africa","MALE",2.5,1.9,3.4,FALSE
+2002,"Americas","MALE",0.28,0.22,0.37,FALSE
+2005,"Eastern Mediterranean","MALE",0.1,0.1,0.11,FALSE
+2005,"Western Pacific","MALE",0.14,0.13,0.15,FALSE
+2005,"South-East Asia","MALE",0.18,0.13,0.27,FALSE
+2005,"Europe","MALE",0.17,0.14,0.2,FALSE
+2016,"Africa","FEMALE",1.4,1.1,1.9,FALSE
+2005,"Americas","MALE",0.27,0.21,0.35,FALSE
+2016,"Western Pacific","FEMALE",0.1,0.1,0.1,FALSE
+2016,"Americas","FEMALE",0.1,0.1,0.13,FALSE
+2016,"South-East Asia","FEMALE",0.1,0.1,0.1,FALSE
+2016,"Eastern Mediterranean","FEMALE",0.1,0.1,0.1,FALSE
+2016,"Europe","FEMALE",0.11,0.1,0.12,FALSE
+2015,"Africa","MALE",0.95,0.72,1.3,FALSE
+2015,"Americas","MALE",0.28,0.21,0.36,FALSE
+1993,"Americas","MALE",0.32,0.25,0.42,FALSE
+1993,"South-East Asia","MALE",0.61,0.43,0.91,FALSE
+1993,"Europe","MALE",0.1,0.1,0.12,FALSE
+2015,"South-East Asia","MALE",0.1,0.1,0.14,FALSE
+2015,"Europe","MALE",0.26,0.21,0.3,FALSE
+2015,"Eastern Mediterranean","MALE",0.1,0.1,0.11,FALSE
+2015,"Western Pacific","MALE",0.12,0.1,0.13,FALSE
+1993,"Western Pacific","MALE",0.1,0.1,0.1,FALSE
+1996,"Americas","MALE",0.32,0.25,0.41,FALSE
+1996,"Africa","MALE",3.4,2.5,4.6,FALSE
+2010,"Africa","MALE",1.5,1.1,2,FALSE
+2010,"Western Pacific","MALE",0.12,0.11,0.13,FALSE
+2010,"Americas","MALE",0.27,0.21,0.35,FALSE
+2010,"South-East Asia","MALE",0.12,0.1,0.19,FALSE
+2010,"Europe","MALE",0.24,0.2,0.28,FALSE
+2016,"Africa","MALE",0.87,0.66,1.2,FALSE
+2016,"Americas","MALE",0.28,0.21,0.36,FALSE
+2016,"South-East Asia","MALE",0.1,0.1,0.14,FALSE
+2016,"Europe","MALE",0.25,0.21,0.29,FALSE
+2016,"Eastern Mediterranean","MALE",0.1,0.1,0.11,FALSE
+2016,"Western Pacific","MALE",0.11,0.1,0.13,FALSE
+1994,"Africa","MALE",3.6,2.7,4.9,FALSE
+1994,"South-East Asia","MALE",0.6,0.43,0.9,FALSE
+2008,"Africa","MALE",1.7,1.3,2.3,FALSE
+2008,"Americas","MALE",0.27,0.21,0.35,FALSE
+2008,"South-East Asia","MALE",0.14,0.1,0.21,FALSE
+1994,"Europe","MALE",0.11,0.1,0.13,FALSE
+1994,"Western Pacific","MALE",0.1,0.1,0.11,FALSE
+1994,"Americas","MALE",0.32,0.25,0.42,FALSE
+2008,"Eastern Mediterranean","MALE",0.1,0.1,0.12,FALSE
+1996,"Africa","FEMALE",4.5,3.4,6,FALSE
+1996,"Americas","FEMALE",0.13,0.1,0.17,FALSE
+2010,"Africa","FEMALE",2,1.5,2.7,FALSE
+2008,"Western Pacific","MALE",0.13,0.12,0.14,FALSE
+2008,"Europe","MALE",0.21,0.18,0.24,FALSE
+2010,"South-East Asia","FEMALE",0.1,0.1,0.14,FALSE
+2010,"Europe","FEMALE",0.1,0.1,0.12,FALSE
+2010,"Eastern Mediterranean","FEMALE",0.1,0.1,0.1,FALSE
+2010,"Americas","FEMALE",0.1,0.1,0.13,FALSE
+2010,"Western Pacific","FEMALE",0.1,0.1,0.1,FALSE
+2018,"Africa","MALE",0.7,0.53,0.97,FALSE
+2018,"Americas","MALE",0.28,0.21,0.36,FALSE
+2007,"Africa","MALE",1.8,1.4,2.5,FALSE
+2007,"Americas","MALE",0.26,0.2,0.34,FALSE
+1994,"Africa","FEMALE",4.7,3.5,6.3,FALSE
+1994,"Americas","FEMALE",0.14,0.11,0.18,FALSE
+1994,"Europe","FEMALE",0.1,0.1,0.1,FALSE
+2008,"Africa","FEMALE",2.3,1.7,3.1,FALSE
+2008,"Americas","FEMALE",0.1,0.1,0.13,FALSE
+2008,"South-East Asia","FEMALE",0.11,0.1,0.17,FALSE
+2008,"Europe","FEMALE",0.1,0.1,0.1,FALSE
+1994,"Eastern Mediterranean","FEMALE",0.1,0.1,0.1,FALSE
+1994,"South-East Asia","FEMALE",0.41,0.29,0.62,FALSE
+1994,"Western Pacific","FEMALE",0.1,0.1,0.1,FALSE
+2008,"Eastern Mediterranean","FEMALE",0.1,0.1,0.1,FALSE
+2008,"Western Pacific","FEMALE",0.1,0.1,0.1,FALSE
+1995,"South-East Asia","MALE",0.63,0.45,0.95,FALSE
+1995,"Europe","MALE",0.12,0.1,0.14,FALSE
+1995,"Western Pacific","MALE",0.1,0.1,0.11,FALSE
+1995,"Africa","MALE",3.5,2.6,4.7,FALSE
+1995,"Americas","MALE",0.32,0.25,0.42,FALSE
+2009,"Africa","MALE",1.6,1.2,2.1,FALSE
+2009,"Americas","MALE",0.27,0.21,0.35,FALSE
+2009,"South-East Asia","MALE",0.13,0.1,0.2,FALSE
+2009,"Europe","MALE",0.23,0.19,0.26,FALSE
+2009,"Eastern Mediterranean","MALE",0.1,0.1,0.11,FALSE
+2011,"Europe","MALE",0.25,0.21,0.29,FALSE
+2011,"Western Pacific","MALE",0.12,0.11,0.13,FALSE
+1998,"Africa","MALE",3.1,2.4,4.3,FALSE
+1998,"Americas","MALE",0.31,0.23,0.4,FALSE
+1998,"South-East Asia","MALE",0.45,0.32,0.68,FALSE
+1998,"Europe","MALE",0.14,0.12,0.16,FALSE
+1998,"Western Pacific","MALE",0.11,0.1,0.12,FALSE
+2021,"Eastern Mediterranean","MALE",0.11,0.1,0.16,FALSE
+2021,"Western Pacific","MALE",0.11,0.1,0.12,FALSE
+2022,"Africa","MALE",0.48,0.36,0.66,FALSE
+2021,"Africa","MALE",0.53,0.4,0.73,FALSE
+2021,"Americas","MALE",0.26,0.2,0.34,FALSE
+2021,"South-East Asia","MALE",0.1,0.1,0.11,FALSE
+2022,"Americas","MALE",0.26,0.2,0.34,FALSE
+2021,"Europe","MALE",0.24,0.2,0.28,FALSE
+2011,"Africa","MALE",1.3,1,1.9,FALSE
+2011,"Americas","MALE",0.27,0.21,0.35,FALSE
+2011,"South-East Asia","MALE",0.12,0.1,0.18,FALSE
+1999,"Americas","MALE",0.3,0.23,0.39,FALSE
+1999,"South-East Asia","MALE",0.35,0.25,0.53,FALSE
+1999,"Europe","MALE",0.14,0.12,0.17,FALSE
+1999,"Western Pacific","MALE",0.11,0.1,0.12,FALSE
+1999,"Africa","MALE",3,2.2,4.1,FALSE
+2013,"Africa","MALE",1.1,0.86,1.6,FALSE
+2013,"Americas","MALE",0.27,0.21,0.36,FALSE
+2013,"South-East Asia","MALE",0.1,0.1,0.16,FALSE
+2013,"Europe","MALE",0.26,0.21,0.3,FALSE
+2022,"Europe","MALE",0.24,0.2,0.28,FALSE
+2022,"Eastern Mediterranean","MALE",0.12,0.1,0.17,FALSE
+2022,"Western Pacific","MALE",0.11,0.1,0.12,FALSE
+2013,"Western Pacific","MALE",0.12,0.11,0.13,FALSE
+2018,"South-East Asia","MALE",0.1,0.1,0.13,FALSE
+2018,"Europe","MALE",0.25,0.2,0.29,FALSE
+2018,"Eastern Mediterranean","MALE",0.1,0.1,0.12,FALSE
+2020,"Western Pacific","MALE",0.11,0.1,0.12,FALSE
+1997,"Africa","MALE",3.3,2.5,4.5,FALSE
+2018,"Western Pacific","MALE",0.11,0.1,0.12,FALSE
+1997,"Americas","MALE",0.31,0.24,0.41,FALSE
+1997,"South-East Asia","MALE",0.55,0.39,0.83,FALSE
+1997,"Europe","MALE",0.14,0.11,0.16,FALSE
+1997,"Western Pacific","MALE",0.11,0.1,0.12,FALSE
+2019,"Africa","MALE",0.64,0.48,0.88,FALSE
+2019,"Americas","MALE",0.27,0.21,0.36,FALSE
+2019,"South-East Asia","MALE",0.1,0.1,0.12,FALSE
+2019,"Europe","MALE",0.24,0.2,0.28,FALSE
+2019,"Eastern Mediterranean","MALE",0.1,0.1,0.14,FALSE
+2019,"Western Pacific","MALE",0.11,0.1,0.12,FALSE
+2023,"Europe","MALE",0.24,0.2,0.28,FALSE
+2023,"Eastern Mediterranean","MALE",0.13,0.11,0.18,FALSE
+2023,"Western Pacific","MALE",0.11,0.1,0.13,FALSE
+2023,"Africa","MALE",0.43,0.33,0.59,FALSE
+2020,"Africa","MALE",0.57,0.43,0.79,FALSE
+2020,"Americas","MALE",0.27,0.21,0.35,FALSE
+2020,"South-East Asia","MALE",0.1,0.1,0.11,FALSE
+2020,"Europe","MALE",0.24,0.2,0.28,FALSE
+2020,"Eastern Mediterranean","MALE",0.1,0.1,0.15,FALSE
+2023,"Americas","MALE",0.25,0.19,0.33,FALSE
+2024,"Americas","MALE",0.24,0.19,0.32,FALSE
+2024,"Africa","MALE",0.39,0.3,0.54,FALSE
+2000,"Western Pacific","MALE",0.12,0.11,0.13,FALSE
+1990,"Africa","TOTAL",3.6,2.7,4.8,FALSE
+1990,"Americas","TOTAL",0.21,0.17,0.27,FALSE
+1990,"South-East Asia","TOTAL",0.43,0.31,0.65,FALSE
+2023,"South-East Asia","FEMALE",0.1,0.1,0.1,FALSE
+2023,"Europe","FEMALE",0.1,0.1,0.12,FALSE
+2023,"Eastern Mediterranean","FEMALE",0.1,0.1,0.1,FALSE
+2023,"Western Pacific","FEMALE",0.1,0.1,0.1,FALSE
+1992,"Africa","TOTAL",4.1,3.1,5.4,FALSE
+2023,"Africa","FEMALE",0.74,0.56,1,FALSE
+2023,"Americas","FEMALE",0.1,0.1,0.12,FALSE
+2024,"Africa","FEMALE",0.67,0.51,0.9,FALSE
+2024,"Americas","FEMALE",0.1,0.1,0.11,FALSE
+2024,"South-East Asia","FEMALE",0.1,0.1,0.1,FALSE
+1991,"Africa","TOTAL",3.9,2.9,5.1,FALSE
+1991,"Americas","TOTAL",0.22,0.17,0.27,FALSE
+1991,"South-East Asia","TOTAL",0.5,0.36,0.74,FALSE
+2007,"Europe","TOTAL",0.14,0.12,0.16,FALSE
+1993,"Africa","TOTAL",4.2,3.1,5.5,FALSE
+2007,"South-East Asia","TOTAL",0.14,0.1,0.2,FALSE
+2000,"Western Pacific","FEMALE",0.1,0.1,0.1,FALSE
+2006,"Africa","TOTAL",2.3,1.7,3,FALSE
+2006,"Americas","TOTAL",0.18,0.14,0.23,FALSE
+2006,"South-East Asia","TOTAL",0.15,0.11,0.22,FALSE
+2006,"Europe","TOTAL",0.13,0.11,0.15,FALSE
+2006,"Western Pacific","TOTAL",0.1,0.1,0.11,FALSE
+2014,"Europe","TOTAL",0.18,0.15,0.21,FALSE
+2004,"Europe","TOTAL",0.11,0.1,0.13,FALSE
+2004,"Africa","TOTAL",2.6,2,3.5,FALSE
+2004,"Americas","TOTAL",0.19,0.15,0.24,FALSE
+2004,"South-East Asia","TOTAL",0.18,0.13,0.26,FALSE
+2004,"Western Pacific","TOTAL",0.1,0.1,0.11,FALSE
+2005,"South-East Asia","TOTAL",0.16,0.12,0.24,FALSE
+2005,"Europe","TOTAL",0.12,0.1,0.14,FALSE
+2005,"Western Pacific","TOTAL",0.1,0.1,0.11,FALSE
+2005,"Africa","TOTAL",2.4,1.8,3.2,FALSE
+2005,"Americas","TOTAL",0.19,0.15,0.24,FALSE
+2015,"Africa","TOTAL",1.2,0.92,1.6,FALSE
+2015,"Americas","TOTAL",0.19,0.15,0.24,FALSE
+2015,"South-East Asia","TOTAL",0.1,0.1,0.12,FALSE
+2011,"Europe","TOTAL",0.17,0.15,0.2,FALSE
+2017,"Africa","TOTAL",1,0.78,1.4,FALSE
+2017,"Americas","TOTAL",0.19,0.15,0.24,FALSE
+1998,"Africa","TOTAL",3.7,2.8,4.9,FALSE
+1998,"Americas","TOTAL",0.21,0.17,0.27,FALSE
+1998,"South-East Asia","TOTAL",0.41,0.3,0.61,FALSE
+1998,"Europe","TOTAL",0.1,0.1,0.12,FALSE
+2011,"Americas","TOTAL",0.18,0.14,0.23,FALSE
+2011,"South-East Asia","TOTAL",0.1,0.1,0.16,FALSE
+2011,"Africa","TOTAL",1.6,1.2,2.2,FALSE
+1999,"Africa","TOTAL",3.5,2.6,4.7,FALSE
+1999,"Americas","TOTAL",0.21,0.16,0.26,FALSE
+1999,"South-East Asia","TOTAL",0.32,0.23,0.48,FALSE
+1999,"Europe","TOTAL",0.1,0.1,0.12,FALSE
+2013,"Africa","TOTAL",1.4,1.1,1.9,FALSE
+2013,"Americas","TOTAL",0.19,0.15,0.24,FALSE
+2013,"South-East Asia","TOTAL",0.1,0.1,0.13,FALSE
+2013,"Europe","TOTAL",0.18,0.15,0.21,FALSE
+2018,"Europe","TOTAL",0.17,0.15,0.2,FALSE
+1997,"Africa","TOTAL",3.8,2.9,5.1,FALSE
+2018,"South-East Asia","TOTAL",0.1,0.1,0.11,FALSE
+1997,"Americas","TOTAL",0.22,0.17,0.28,FALSE
+1997,"South-East Asia","TOTAL",0.5,0.36,0.74,FALSE
+1997,"Europe","TOTAL",0.1,0.1,0.11,FALSE
+2019,"Africa","TOTAL",0.85,0.65,1.1,FALSE
+2019,"Americas","TOTAL",0.19,0.15,0.24,FALSE
+2019,"Europe","TOTAL",0.17,0.15,0.2,FALSE
+2020,"Africa","TOTAL",0.77,0.59,1,FALSE
+2020,"Americas","TOTAL",0.18,0.14,0.23,FALSE
+2020,"Europe","TOTAL",0.17,0.14,0.19,FALSE
+1993,"Africa","MALE",3.6,2.7,4.9,FALSE
+2007,"South-East Asia","MALE",0.15,0.11,0.23,FALSE
+2007,"Europe","MALE",0.2,0.16,0.23,FALSE
+2007,"Eastern Mediterranean","MALE",0.1,0.1,0.12,FALSE
+2007,"Western Pacific","MALE",0.13,0.12,0.14,FALSE
+2014,"Europe","MALE",0.26,0.21,0.3,FALSE
+2014,"Eastern Mediterranean","MALE",0.1,0.1,0.11,FALSE
+2014,"Western Pacific","MALE",0.12,0.11,0.13,FALSE
+1992,"Western Pacific","MALE",0.1,0.1,0.1,FALSE
+2004,"Africa","FEMALE",2.9,2.2,4,FALSE
+2004,"South-East Asia","FEMALE",0.16,0.11,0.24,FALSE
+2004,"Western Pacific","FEMALE",0.1,0.1,0.1,FALSE
+2004,"Europe","FEMALE",0.1,0.1,0.1,FALSE
+2004,"Eastern Mediterranean","FEMALE",0.1,0.1,0.1,FALSE
+2004,"Americas","FEMALE",0.11,0.1,0.14,FALSE
+1992,"South-East Asia","FEMALE",0.33,0.23,0.5,FALSE
+1992,"Europe","FEMALE",0.1,0.1,0.1,FALSE
+2011,"Western Pacific","FEMALE",0.1,0.1,0.1,FALSE
+2011,"Eastern Mediterranean","FEMALE",0.1,0.1,0.1,FALSE
+2014,"Africa","FEMALE",1.6,1.2,2.1,FALSE
+2014,"Americas","FEMALE",0.1,0.1,0.13,FALSE
+1992,"Eastern Mediterranean","FEMALE",0.1,0.1,0.1,FALSE
+2014,"Europe","FEMALE",0.11,0.1,0.13,FALSE
+2014,"South-East Asia","FEMALE",0.1,0.1,0.1,FALSE
+2009,"Western Pacific","MALE",0.12,0.11,0.14,FALSE
+1998,"South-East Asia","FEMALE",0.37,0.26,0.56,FALSE
+1998,"Europe","FEMALE",0.1,0.1,0.1,FALSE
+1998,"Eastern Mediterranean","FEMALE",0.1,0.1,0.1,FALSE
+1998,"Africa","FEMALE",4.2,3.1,5.6,FALSE
+1998,"Americas","FEMALE",0.12,0.1,0.16,FALSE
+1998,"Western Pacific","FEMALE",0.1,0.1,0.1,FALSE
+1990,"Africa","MALE",3.2,2.4,4.3,FALSE
+1990,"Americas","MALE",0.29,0.23,0.38,FALSE
+2011,"Africa","FEMALE",1.9,1.4,2.5,FALSE
+2011,"Americas","FEMALE",0.1,0.1,0.13,FALSE
+2011,"South-East Asia","FEMALE",0.1,0.1,0.13,FALSE
+2011,"Europe","FEMALE",0.1,0.1,0.12,FALSE
+1996,"South-East Asia","FEMALE",0.5,0.35,0.75,FALSE
+1996,"Europe","FEMALE",0.1,0.1,0.1,FALSE
+1996,"Eastern Mediterranean","FEMALE",0.1,0.1,0.1,FALSE
+1990,"South-East Asia","MALE",0.62,0.44,0.93,FALSE
+1990,"Western Pacific","MALE",0.1,0.1,0.1,FALSE
+1990,"Europe","MALE",0.1,0.1,0.11,FALSE
+1996,"Western Pacific","FEMALE",0.1,0.1,0.1,FALSE
+1992,"Africa","MALE",3.6,2.6,4.8,FALSE
+1992,"Americas","MALE",0.31,0.24,0.4,FALSE
+1991,"Western Pacific","MALE",0.1,0.1,0.1,FALSE
+1991,"Africa","MALE",3.5,2.5,4.6,FALSE
+1991,"Americas","MALE",0.3,0.23,0.39,FALSE
+1991,"South-East Asia","MALE",0.69,0.49,1,FALSE
+1991,"Europe","MALE",0.1,0.1,0.11,FALSE
+2006,"Africa","MALE",1.9,1.5,2.7,FALSE
+2006,"Americas","MALE",0.26,0.2,0.34,FALSE
+2006,"South-East Asia","MALE",0.17,0.12,0.25,FALSE
+2006,"Europe","MALE",0.18,0.15,0.21,FALSE
+2006,"Eastern Mediterranean","MALE",0.1,0.1,0.11,FALSE
+2006,"Western Pacific","MALE",0.14,0.12,0.15,FALSE
+2004,"Africa","MALE",2.2,1.7,3,FALSE
+2004,"Americas","MALE",0.28,0.22,0.36,FALSE
+2004,"South-East Asia","MALE",0.2,0.14,0.29,FALSE
+2004,"Europe","MALE",0.16,0.13,0.19,FALSE
+2004,"Western Pacific","MALE",0.14,0.13,0.15,FALSE
+2005,"Africa","MALE",2.1,1.6,2.8,FALSE
+2012,"Africa","MALE",1.2,0.93,1.7,FALSE
+2012,"Americas","MALE",0.27,0.21,0.35,FALSE
+2012,"South-East Asia","MALE",0.11,0.1,0.17,FALSE
+2012,"Europe","MALE",0.26,0.21,0.3,FALSE
+2017,"South-East Asia","MALE",0.1,0.1,0.13,FALSE
+2012,"Western Pacific","MALE",0.12,0.11,0.13,FALSE
+2017,"Europe","MALE",0.25,0.21,0.29,FALSE
+2017,"Eastern Mediterranean","MALE",0.1,0.1,0.12,FALSE
+2017,"Western Pacific","MALE",0.11,0.1,0.12,FALSE
+1994,"Americas","TOTAL",0.23,0.18,0.29,FALSE
+1994,"South-East Asia","TOTAL",0.51,0.37,0.76,FALSE
+2008,"Africa","TOTAL",2,1.5,2.6,FALSE
+2008,"Americas","TOTAL",0.18,0.14,0.23,FALSE
+2008,"South-East Asia","TOTAL",0.13,0.1,0.19,FALSE
+1994,"Africa","TOTAL",4.1,3.1,5.5,FALSE
+2008,"Europe","TOTAL",0.15,0.13,0.17,FALSE
+2024,"Europe","MALE",0.24,0.2,0.28,FALSE
+2024,"Eastern Mediterranean","MALE",0.14,0.11,0.19,FALSE
+2024,"Western Pacific","MALE",0.12,0.1,0.13,FALSE
+2002,"Americas","TOTAL",0.2,0.15,0.25,FALSE
+2002,"South-East Asia","TOTAL",0.22,0.16,0.33,FALSE
+2002,"Europe","TOTAL",0.1,0.1,0.12,FALSE
+2002,"Africa","TOTAL",2.9,2.2,3.9,FALSE
+1995,"Africa","TOTAL",4,3,5.4,FALSE
+1995,"South-East Asia","TOTAL",0.56,0.4,0.83,FALSE
+1995,"Americas","TOTAL",0.23,0.18,0.29,FALSE
+2009,"Africa","TOTAL",1.8,1.4,2.5,FALSE
+2009,"Americas","TOTAL",0.18,0.15,0.23,FALSE
+2009,"South-East Asia","TOTAL",0.12,0.1,0.17,FALSE
+2000,"Africa","TOTAL",3.3,2.5,4.4,FALSE
+2000,"Americas","TOTAL",0.2,0.16,0.26,FALSE
+2000,"South-East Asia","TOTAL",0.28,0.21,0.42,FALSE
+2000,"Europe","TOTAL",0.1,0.1,0.12,FALSE
+2009,"Europe","TOTAL",0.16,0.13,0.18,FALSE
+2003,"Africa","TOTAL",2.7,2.1,3.7,FALSE
+2003,"Americas","TOTAL",0.19,0.15,0.25,FALSE
+2003,"South-East Asia","TOTAL",0.19,0.14,0.29,FALSE
+2003,"Europe","TOTAL",0.11,0.1,0.12,FALSE
+2003,"Western Pacific","TOTAL",0.1,0.1,0.11,FALSE
+2001,"Africa","TOTAL",3.1,2.4,4.1,FALSE
+2001,"Americas","TOTAL",0.2,0.16,0.25,FALSE
+2001,"South-East Asia","TOTAL",0.24,0.18,0.36,FALSE
+2001,"Europe","TOTAL",0.1,0.1,0.12,FALSE
+2017,"Europe","TOTAL",0.18,0.15,0.2,FALSE
+2017,"South-East Asia","TOTAL",0.1,0.1,0.11,FALSE
+1996,"Americas","TOTAL",0.22,0.18,0.29,FALSE
+1996,"South-East Asia","TOTAL",0.57,0.41,0.84,FALSE
+2017,"Africa","MALE",0.78,0.59,1.1,FALSE
+2017,"Americas","MALE",0.28,0.21,0.36,FALSE
+1996,"Europe","TOTAL",0.1,0.1,0.11,FALSE
+2012,"Africa","TOTAL",1.5,1.1,2,FALSE
+2012,"Americas","TOTAL",0.19,0.15,0.24,FALSE
+2012,"South-East Asia","TOTAL",0.1,0.1,0.15,FALSE
+2012,"Europe","TOTAL",0.18,0.15,0.2,FALSE
+2024,"Europe","TOTAL",0.17,0.14,0.19,FALSE
+2024,"Eastern Mediterranean","TOTAL",0.1,0.1,0.12,FALSE
+2014,"Africa","MALE",1,0.78,1.4,FALSE
+2014,"Americas","MALE",0.28,0.21,0.36,FALSE
+2014,"South-East Asia","MALE",0.1,0.1,0.15,FALSE
+1992,"South-East Asia","MALE",0.65,0.46,0.97,FALSE
+1992,"Europe","MALE",0.1,0.1,0.11,FALSE
+1996,"Western Pacific","MALE",0.11,0.1,0.12,FALSE
+1996,"South-East Asia","MALE",0.63,0.45,0.95,FALSE
+1996,"Europe","MALE",0.13,0.11,0.15,FALSE
+2015,"Europe","TOTAL",0.18,0.15,0.21,FALSE
+1993,"Americas","TOTAL",0.23,0.18,0.29,FALSE
+1993,"South-East Asia","TOTAL",0.49,0.35,0.73,FALSE
+2016,"Africa","TOTAL",1.1,0.86,1.5,FALSE
+2016,"Americas","TOTAL",0.19,0.15,0.24,FALSE
+2016,"South-East Asia","TOTAL",0.1,0.1,0.12,FALSE
+2016,"Europe","TOTAL",0.18,0.15,0.2,FALSE
+2022,"Africa","TOTAL",0.64,0.49,0.87,FALSE
+2022,"Americas","TOTAL",0.18,0.14,0.22,FALSE
+2021,"Africa","TOTAL",0.72,0.55,0.97,FALSE
+2021,"Americas","TOTAL",0.18,0.14,0.23,FALSE
+2021,"Europe","TOTAL",0.17,0.14,0.19,FALSE
+2022,"Europe","TOTAL",0.17,0.14,0.19,FALSE
+2022,"Eastern Mediterranean","TOTAL",0.1,0.1,0.11,FALSE
+2023,"Europe","TOTAL",0.17,0.14,0.19,FALSE
+2023,"Eastern Mediterranean","TOTAL",0.1,0.1,0.12,FALSE
+2023,"Africa","TOTAL",0.58,0.45,0.79,FALSE
+2023,"Americas","TOTAL",0.17,0.14,0.22,FALSE
+2024,"Africa","TOTAL",0.53,0.4,0.71,FALSE
+2024,"Americas","TOTAL",0.16,0.13,0.21,FALSE
+1992,"Americas","TOTAL",0.22,0.18,0.28,FALSE
+1992,"South-East Asia","TOTAL",0.49,0.36,0.73,FALSE
+2014,"Africa","TOTAL",1.3,0.99,1.7,FALSE
+2014,"Americas","TOTAL",0.19,0.15,0.24,FALSE
+2014,"South-East Asia","TOTAL",0.1,0.1,0.13,FALSE
+2018,"Africa","TOTAL",0.93,0.71,1.3,FALSE
+2018,"Americas","TOTAL",0.19,0.15,0.24,FALSE
+2007,"Africa","TOTAL",2.1,1.6,2.8,FALSE
+2007,"Americas","TOTAL",0.18,0.14,0.23,FALSE
+2010,"Africa","TOTAL",1.7,1.3,2.3,FALSE
+2010,"Americas","TOTAL",0.18,0.15,0.23,FALSE
+2010,"South-East Asia","TOTAL",0.11,0.1,0.16,FALSE
+2010,"Europe","TOTAL",0.17,0.14,0.19,FALSE
+1996,"Africa","TOTAL",3.9,3,5.3,FALSE
