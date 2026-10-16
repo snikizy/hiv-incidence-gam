@@ -1,0 +1,8 @@
+"sex","region","n_years_above_floor","first_year","last_year_above_floor","k","edf","dev_explained","peak_year_fit","peak_year_median","peak_year_lo","peak_year_hi","peak_at_boundary","peak_rate_fit","last_rate_fit","pct_change_peak_to_last","pct_lo","pct_hi","avg_annual_pct_after_peak","first_year_falling","n_intervals_falling"
+"FEMALE","Africa",35,1990,2024,10,8.58,1,1994,1994,1994,1994,FALSE,4.713,0.671,-85.7,-86.1,-85.4,-6.3,1994,30
+"FEMALE","South-East Asia",19,1990,2008,9,7.2,0.996,1996,1996,1996,1996,FALSE,0.48,0.109,-77.3,-79,-75.5,-11.6,1996,12
+"MALE","Africa",35,1990,2024,10,8.28,1,1994,1994,1993,1994,FALSE,3.602,0.393,-89.1,-89.4,-88.8,-7.1,1994,30
+"MALE","Europe",31,1994,2024,10,8.43,0.998,2013,2013,2013,2014,FALSE,0.261,0.241,-7.8,-10.6,-5,-0.7,2014,6
+"MALE","South-East Asia",23,1990,2012,10,7.4,0.998,1990,1991,1990,1994,TRUE,0.647,0.112,-83,-84.3,-81.6,-7.7,1995,16
+"TOTAL","Africa",35,1990,2024,10,8.28,1,1994,1994,1994,1994,FALSE,4.127,0.53,-87.2,-87.5,-86.8,-6.6,1994,30
+"TOTAL","South-East Asia",21,1990,2010,10,8.39,0.999,1996,1996,1995,1996,FALSE,0.557,0.111,-80.2,-81.3,-79,-10.9,1996,14

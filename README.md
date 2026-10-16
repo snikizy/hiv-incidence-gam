@@ -12,3 +12,5 @@
 - **2026-10-16 - `R/03_models.R`:** Gamma(log) GAMs, mgcv REML. Primary analysis: FEMALE series (complete for all 6 regions). Compared 3 models by AIC; best = m3_by_region_k20 (models/gam_female.rds). Secondary MALE/TOTAL fitted only for series with >= 15 obs. Excluded: Eastern Mediterranean (TOTAL, n = 3); Western Pacific (TOTAL, n = 4).
 
 - **2026-10-16 - `R/04_diagnostics.R`:** Fitted-curve plots, Western Pacific k-sensitivity (k = 10, 15, 20), residual plots, ACF/Ljung-Box, k.check, concurvity. Outputs in outputs/figures/ and outputs/tables/.
+
+- **2026-10-16 - `R/05_results.R`:** Reporting floor of 0.10 per 1,000 found (many series are published as exactly 0.10). Models refit on above-floor years only, one Gamma(log) GAM per eligible region x sex (>= 15 years above floor and max/min >= 2). Peak year, % change and falling periods from 2000 posterior simulations. Earlier by-region models (R/03) are superseded for headline results.
